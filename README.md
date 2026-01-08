@@ -1,27 +1,117 @@
-# 💫 About Me:
-# Hi 👋, I'm Yadav Shreyash<br><br>🚀 Aspiring **MERN Stack Developer** with a strong foundation in both **front-end** and **back-end** web technologies.  <br>I enjoy building full-stack applications, learning modern tools, and improving my problem-solving skills every day.<br><br>---<br><br>## 👨‍💻 I'm currently working on<br>- Full-stack MERN projects (MongoDB, Express, React, Node.js)<br>- Improving UI/UX in React applications<br>- Building RESTful APIs with Express & MongoDB<br><br>---<br><br>## 🤝 I'm looking to collaborate on<br>- MERN stack projects<br>- Open-source web development projects<br>- Real-world applications using React & Node.js<br><br>---<br><br>## 🆘 I'm looking for help with<br>- Advanced backend architecture<br>- Authentication & authorization (JWT, role-based access)<br>- Performance optimization in MERN applications<br><br>---<br><br>## 🌱 I'm currently learning<br>- Advanced React (hooks, performance optimization)<br>- Node.js & Express best practices<br>- MongoDB aggregation & schema design<br>- System design basics for web applications<br><br>---<br><br>## 💬 Ask me about<br>- HTML, CSS, JavaScript<br>- React.js & component-based architecture<br>- Node.js, Express.js<br>- REST APIs & MongoDB<br>- Git & GitHub basics<br><br>---<br><br>## 🛠️ Tech Stack<br>**Frontend:**  <br>HTML • CSS • JavaScript • React • Tailwind CSS  <br><br>**Backend:**  <br>Node.js • Express.js  <br><br>**Database:**  <br>MongoDB  <br><br>**Tools & Others:**  <br>Git • GitHub • Postman • VS Code  <br><br>---<br><br>## ⚡ Fun fact<br>I love turning ideas into working web applications and debugging code feels like solving a puzzle 🧩<br><br>---<br><br>📫 **Let's connect and build something amazing!**<br>
+# Hi 👋, I'm Yadav Shreyash  
 
+🚀 Aspiring **MERN Stack Developer** with a strong foundation in **frontend & backend web technologies**.  
+I enjoy building full-stack applications, learning modern tools, and solving real-world problems through code.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadav-shreyash-m-624053386/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavshreyash842@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yadav-Shreyash842&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yadav-Shreyash842&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadav-Shreyash842&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💫 About Me
+- 💻 Passionate about **JavaScript & MERN Stack**
+- 🌱 Constantly learning and improving backend & frontend skills
+- 🧠 Love clean UI, scalable APIs, and structured code
+- 🧩 Debugging feels like solving puzzles to me
+
+---
+
+## 👨‍💻 I'm currently working on
+- Full-stack **MERN projects**
+- Building **REST APIs** with Node.js & Express
+- Improving **UI/UX** using React & Tailwind CSS
+
+---
+
+## 🤝 I'm looking to collaborate on
+- MERN Stack applications
+- Open-source web development projects
+- Real-world React & Node.js projects
+
+---
+
+## 🆘 I'm looking for help with
+- Backend architecture & scalability
+- Authentication & authorization (JWT, role-based access)
+- Performance optimization in MERN apps
+
+---
+
+## 🌱 I'm currently learning
+- Advanced React (hooks, optimization)
+- Node.js & Express best practices
+- MongoDB aggregation & schema design
+- Basics of system design
+
+---
+
+## 💬 Ask me about
+- HTML, CSS, JavaScript
+- React, Redux, React Router
+- Node.js, Express.js
+- REST APIs & MongoDB
+- Git & GitHub
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧠 Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🤖 AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadav-shreyash-m-624053386/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavshreyash842@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Yadav-Shreyash842&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Yadav-Shreyash842&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadav-Shreyash842&theme=dark&hide_border=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yadav-Shreyash842&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yadav-Shreyash842&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ⚡ Fun Fact
+Debugging code gives me the same satisfaction as solving a tough puzzle 🧩
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yadav-Shreyash842&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Yadav-Shreyash842&icon=0&color=0)](https://visitcount.itsvg.in)
